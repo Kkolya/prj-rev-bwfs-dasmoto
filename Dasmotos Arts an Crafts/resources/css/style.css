@@ -1,0 +1,28 @@
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: white;
+}
+body{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  color: white;
+  font-family: fantasy;
+  text-align: center;
+}
+.header h2{
+  font-size: 50px;
+}
+li{
+  font-size: 40px;
+  background-color: white;
+  opacity: 0.75;
+}
+.brushes h2, .frames h2, .paint h2{
+  font-size: 60px;
+}
+h3{
+  font-size: 40px;
+}
+p{
+  font-size: 20px;
+}
